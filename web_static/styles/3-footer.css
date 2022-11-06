@@ -1,0 +1,17 @@
+/*
+ * === Global style ===
+ */
+
+/* Footer style */
+
+footer {
+    align-items: center;
+    background-color: white;
+    bottom: 0;
+    display: flex;
+    height: 60px;
+    justify-content: center;
+    border-top: 1px solid #CCCCCC;
+    position: fixed;
+    width: 100%;
+}

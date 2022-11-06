@@ -1,0 +1,21 @@
+/*
+ * === Global style ===
+ */
+
+/* Header style */
+
+header {
+    background: white;
+    height:70px;
+    width:100%;
+    border-bottom: 1px solid #CCCCCC;
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 128px;
+    height: 45px;
+    background: url("../images/logo.png") no-repeat center;
+    padding-left: 20px;
+}
